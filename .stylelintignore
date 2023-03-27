@@ -1,0 +1,7 @@
+dist
+public
+env
+build
+.vscode
+README.md
+node_modules
